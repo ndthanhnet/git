@@ -35,6 +35,5 @@ Make sure hyphens are being used consistently for branch naming.
 you can include full ID of Jira ticket or Github issue in git commit message, it will be linked to corresponding Jira ticket, or Github issue. in image above, we have DEV-320 is full ID
 
 # References
-- [Successfull Git Model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Introducing Bitbucket Branching Model](https://bitbucket.org/blog/introducing-bitbucket-branching-model-support)
 - [Branch a repository](https://support.atlassian.com/bitbucket-cloud/docs/branch-a-repository/)
